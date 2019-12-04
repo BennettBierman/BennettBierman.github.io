@@ -291,6 +291,8 @@ input, select, textarea {
 		text-align: right;
 	}
 
+
+
 	@media screen and (max-width: 736px) {
 
 		p.major {
@@ -312,6 +314,7 @@ input, select, textarea {
 		h4 {
 			font-size: 1rem;
 		}
+
 
 	}
 
@@ -337,6 +340,8 @@ input, select, textarea {
 
 	blockquote {
 		border-left-color: rgba(0, 0, 0, 0.2);
+		font-size: 1.5rem;;
+		font-weight: 1000;
 	}
 
 	code {
@@ -347,6 +352,7 @@ input, select, textarea {
 	hr {
 		border-bottom-color: rgba(0, 0, 0, 0.2);
 	}
+
 
 /* Row */
 
